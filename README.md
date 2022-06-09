@@ -2,7 +2,7 @@
 
 Companion tools in researching home solar solutions.
 
-See OneNote docs in the folder and other locations.
+See OneNote docs and README on GitHub.
 
 ## Calculate Solar Angle During Day
 
