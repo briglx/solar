@@ -1,11 +1,14 @@
 # Solar Tools
-# Brig's Edit
+# Emmy and Brig's Test
+
 
 Companion tools in researching home solar solutions.
 
 See OneNote docs and README on GitHubs.
 
 ## Calculate Solar Angle During Day
+
+This is another line created by Oleg
 
 The website uses the code
 
