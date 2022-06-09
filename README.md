@@ -1,5 +1,5 @@
 # Solar Tools
-# Emmy and Brig's Test
+# Emmy and Mike and Brig's Test
 
 
 Companion tools in researching home solar solutions.
