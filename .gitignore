@@ -1,0 +1,10 @@
+.venv
+76433_33.25_-111.66_2019.csv
+*.jpg
+*.ini
+*.env
+*.py
+*.csv
+*.txt
+*.pbix
+*.js
