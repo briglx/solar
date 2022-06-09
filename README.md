@@ -1,8 +1,9 @@
 # Solar Tools
+# Brig's Edit
 
 Companion tools in researching home solar solutions.
 
-See OneNote docs and README on GitHub.
+See OneNote docs and README on GitHubs.
 
 ## Calculate Solar Angle During Day
 
